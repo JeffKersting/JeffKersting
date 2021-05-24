@@ -1,5 +1,3 @@
-### Welcome! 
-
 Front-end web developer with a love of problem solving and an analytical approach to challenges. I love working through projects in a team setting, allowing for synergies and a free exchange of ideas. I am dedicated to a lifelong pursuit of knowledge, both professional and personal. I believe that software engineering is a process of continuous improvement, and strive to deliver the highest quality code in any circumstance. I also believe that communication is key. In order to write code effectively both individually and in a group setting, the ability to clearly and concisely convey your thought process during and after the project is critical.
 
 <p align="center">
